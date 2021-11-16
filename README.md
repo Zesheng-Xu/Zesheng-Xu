@@ -14,10 +14,12 @@ This project as you can already tell, got the idea from the popular killer-mystr
 
 
 - 📫 How to reach me: 
+
 School Email: Zxx190011@utdallas.edu 
 Discord: Hailtome#1532 
 
 - ⚡ Fun fact: 
+
 I love cats and fountain pen, maybe golf, sometimes. 
 
 <!--
