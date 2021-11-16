@@ -7,8 +7,8 @@ My name is Zesheng Xu, you can call me Jason. I am currently an undergraduate CS
 
 I am currently working on 2 research projects: amoung_us_scasp(in_progress) and object segmentation(soon_tm). 
 
-Among_us_scasp 
-----------------
+  //Among_us_scasp// 
+  ----------------
 This project as you can already tell, got the idea from the popular killer-mystry game Among us. Yet it is not the replica of it, but its player logic. This project is dedicated to replicate and model the agents(players)' behavior in the game as each individual and based how their perception of others and their known information. 
 
 
@@ -16,6 +16,7 @@ This project as you can already tell, got the idea from the popular killer-mystr
 - 📫 How to reach me: 
 
 School Email: Zxx190011@utdallas.edu 
+
 Discord: Hailtome#1532 
 
 - ⚡ Fun fact: 
