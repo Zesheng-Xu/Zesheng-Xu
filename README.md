@@ -16,6 +16,7 @@ This project as you can already tell, got the idea from the popular killer-mystr
 - 📫 How to reach me: 
 
 School Email: Zxx190011@utdallas.edu 
+
 Personal Email: xu.zesheng.sh@gmail.com (Preferred)
 
 Discord: Hailtome#1532 
