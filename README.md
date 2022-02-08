@@ -6,6 +6,7 @@ My name is Zesheng Xu, you can call me Jason. I am currently an undergraduate CS
 - 🔭 I’m currently working on:
 
 I am currently working on 2 research projects: amoung_us_scasp(in_progress) and object segmentation(soon_tm). 
+Side Project: Wordle Solver
 
   //Among_us_scasp// 
   ----------------
